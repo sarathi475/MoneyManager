@@ -14,7 +14,7 @@ This app used to mange your daily expence and life with self balanced. it is hel
 ## Pre-requirement:
 1. Flutter 3.3.10
 2. Dart 2.18.6
-3.simple_speed_dial: ^0.1.7
+3. simple_speed_dial: ^0.1.7
 
 # Cli command
 ## check your flutter support info:
